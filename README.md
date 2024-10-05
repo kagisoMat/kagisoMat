@@ -1,4 +1,5 @@
-"Hi there!
+#Hi there!
+
 I'm Kagiso, a software developer pursuing my BSc in Information Technology, in South Africa.
 
 I love combining my backend development skills with modern data analytics to create robust, scalable, and user-friendly applications. My goal is to build data-driven systems that not only perform efficiently but also provide seamless and intuitive user experiences.
