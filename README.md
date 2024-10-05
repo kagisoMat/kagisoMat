@@ -9,7 +9,9 @@ Outside of work, I'm constantly exploring new backend technologies and working o
 Fun Facts:
 
 •	I'm more into coding than coffee!☕
+
 •	I'm passionate about discrete mathematics and how it helps me solve logical problems in programming.
+
 •	I enjoy working with Python and Java after transitioning from front-end development.
 
 📫 Contact
