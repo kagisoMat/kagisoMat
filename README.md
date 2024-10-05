@@ -1,4 +1,4 @@
-#Hi there!
+Hi there!
 
 I'm Kagiso, a software developer pursuing my BSc in Information Technology, in South Africa.
 
